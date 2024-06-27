@@ -10,4 +10,3 @@ print("next line")
 print("C:\'narry")
 print("I Love this \n python \t1") #comment after statement
 
-
